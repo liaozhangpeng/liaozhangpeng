@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @liaozhangpeng
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning Android Development
+Hello
 
 <!---
 liaozhangpeng/liaozhangpeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
